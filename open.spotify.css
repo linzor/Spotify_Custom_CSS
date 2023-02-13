@@ -1,15 +1,68 @@
 /* Body */
-/* v1.0 */
+/* v1.1 */
 /* https://github.com/linzor/Spotify_Custom_CSS */
 /* Change your background here */
 body{
- background-image:url("https://w.wallhaven.cc/full/yx/wallhaven-yxx3kd.png");
+ background-image:url("https://w.wallhaven.cc/full/vg/wallhaven-vg2e15.jpg");
  background-size:cover;
 }
 
 
 
 /* CSS: */
+/* Buttons */
+/* Pxdw */
+.rezqw3Q4OEPB1m4rmwfw .tGKwoPuvNBNK3TzCS5OH .uPxdw{
+ filter: hue-rotate(125deg);
+}
+
+/* Button qlcn5g 0 */
+.eSg4ntPU2KQLfpLGXAww .PFgcCoJSWC3KjhZxHDYH .Button-sc-qlcn5g-0{
+ filter: hue-rotate(125deg);
+}
+
+/* Division */
+.iSbqnFdjb1SuyJ3uWydl a .kHHFyx{
+ filter: hue-rotate(125deg);
+}
+
+/* Division */
+.iSbqnFdjb1SuyJ3uWydl .NZAU7CsuZsMeMQB8zYUu .VpYFchIiPg3tPhBGyynT{
+ filter: hue-rotate(125deg);
+}
+
+/* Sq3ply5p4tldskrw */
+li > .g_jOSq3pLY5p4tldskrw{
+ filter: hue-rotate(125deg);
+}
+
+/* Control button heart */
+.OgkbKIVYE_mrNpYESylB .deomraqfhIAoSB3SgXpu .control-button-heart{
+ filter: hue-rotate(125deg);
+}
+
+/* Pxdw */
+.ShMHCGsT93epRGdxJp2w .tGKwoPuvNBNK3TzCS5OH .uPxdw{
+ filter: hue-rotate(125deg);
+}
+
+/* Button qlcn5g 0 */
+.BL__GuO2JsHMR6RgNfwY .Shelf .Button-sc-qlcn5g-0{
+ filter: hue-rotate(125deg);
+}
+
+/* Button qlcn5g 0 */
+.Root__main-view .LunqxlFIupJw_Dkx6mNx .Button-sc-qlcn5g-0{
+ filter: hue-rotate(125deg);
+}
+
+/* Button qlcn5g 0 */
+.WBxE9PQe96PpkE9RuTo5 .DyuLxip2Kl8P7H8fW62u .Button-sc-qlcn5g-0{
+ filter: hue-rotate(125deg);
+}
+
+
+/* layout */
 /* Hsbcz dqu9qjc yr7e idhr */
 .Root__main-view main .HsbczDqu9qjcYr7EIdHR{
  background-color:rgba(0,0,0,0) !important;
@@ -240,5 +293,4 @@ body{
  backdrop-filter:blur(5px);
  transform:translatex(0px) translatey(0px);
 }
-
 
